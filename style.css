@@ -1,0 +1,209 @@
+/* *** COLOUR THEME ***
+The yellowish - #ffe400
+The dark greyish/black - #272727
+The orangish = #FF652F
+*/
+
+
+/* *** UNIVERSAL *** */
+.nbs-colour-themeYellow {
+    color: #FFE400;
+}
+
+.nbs-colour-themeWhitish {
+    color: whitesmoke;
+}
+
+.nbs-colour-themeOrangish {
+    color: #FF652F;
+}
+
+.nbs-h2-dec {
+    color: whitesmoke;
+    color: black;
+    text-align: center;
+    /* font-size: 2.5rem; */
+}
+
+.nbs-borderBottom {
+    border-bottom: 5px solid;
+    border-color: #FF652F;
+}
+
+.nbs-overlay {
+    background: #000;
+    opacity: 0.7;
+}
+
+
+/* *** NAVIGATION *** */
+.nbs-nav-bg-colour {
+    background-color: #272727;
+}
+
+.nbs-nav-text-colour {
+    color: whitesmoke;
+}
+
+.nbs-nav-text-colour2 {
+    color: #FFE400;
+}
+
+.nbs-nav-logo-dec {
+    height: 3rem;
+}
+
+
+/* *** HOME *** */
+.nbs-header-bgImage {
+    background-image: url("Images/abigail-keenan-8-s5QuUBtyM-unsplash.jpg");
+    background-size: cover;
+}
+
+.nbs-header-height {
+    height: 560px;
+    height: 600px;
+}
+
+.nbs-h1-dec {
+    color: whitesmoke;
+}
+
+.nbs-btn-details {
+    color: black;
+    background-color: #FFE400;
+    border: none;
+}
+
+@media (min-width: 1048px) {
+    /* chane the positioning of the bg image */
+    
+
+    .nbs-header-bgImage {
+        /* background-position: center; */
+        /* background-position: 50% 50%; */
+        height: 1200px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        /* background-blend-mode: lighten; */
+    }
+}
+
+@media (min-width: 1700px) {
+    .nbs-header-bgImage {
+        background: url("Images/abigail-keenan-8-s5QuUBtyM-unsplash.jpg");
+        background-size: contain;
+        width: auto;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: black;
+    }
+}
+
+@media (min-width: 1200px) {
+    .nbs-h1-dec {
+        font-size: 2.9rem;
+        color: whitesmoke;
+    }
+}
+
+/* *** SECTION 1 - HOW IT WORKS *** */
+.nbs-s1-h2-dec {
+    color: whitesmoke;
+}
+.nbs-sec1-bg {
+    background-color: #272727;
+}
+
+.nbs-card-dec {
+    background-color: #FFE400;
+    color: black;
+    height: 20rem;
+}
+
+.nbs-card-icon-dec {
+    font-size: 3rem;
+}
+
+/* *** SECTION 2 - GALLERY & REGISTRATION *** */
+.nbs-container-height {
+    height: auto;
+}
+
+.nbs-section2-bg-dec {   
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background: url("Images/dominik-kuhn-kEHp1gUJNO8-unsplash.jpg") fixed;
+    opacity: 0.7;
+}
+
+.nbs-relative {
+    position: relative;
+}
+
+.nbs-absolute {
+    position: absolute;
+}
+
+.nbs-gallery-h2-dec,
+.nbs-registration-h2-dec {
+    /* color: whitesmoke; */
+    /* color: #FFE400; */
+}
+
+.nbs-carousel-dec {
+    border: 4px solid;
+    border-color: whitesmoke;
+    /* border-color: #272727; */
+    /* border-color: black; */
+    /* border-color: #FF652F; */
+}
+
+.nbs-form-dec {
+    background-color: #272727;
+    border: 4px solid;
+    border-color: #FFE400;
+}
+
+.nbs-form-text-dec {
+    color: whitesmoke;
+}
+
+.nbs-form-btn {
+    background-color: #FFE400;
+    border: none;
+}
+
+.nbs-modal-dec  {
+    color: black;
+    background-color: #272727;
+}
+
+/* *** FOOTER - ABOUT US *** */
+.nbs-footer-bg {
+    background-color: #272727;
+    color: whitesmoke;
+}
+
+.nbs-footer-card-dec {
+    /* background-color: #FFE400; */
+    color: whitesmoke;
+    /* height: 20rem; */
+}
+
+.nbs-footer-card-title {
+    color: #FFE400;
+}
+
+.nbs-getintouch-icon-dec {
+    color: #FF652F;
+}
+
+.nbs-socialm-icon-dec {
+    font-size: 2rem;
+    color: #FF652F;
+}
