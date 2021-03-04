@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/shiba517/MSP1-show-tutor)
+
 <!-- README.md file for my Mile Stone Project -->
 
 <!-- This site gives an idea on how what to include in the README.md file -->
@@ -33,8 +35,8 @@ The imagery had to represent secrecy and excitement. The header section containe
 * Wireframes:
 
 ### Wireframes
-* Home Page: ![link](Wireframes\wirefram-md+.png)
-* Mobile: ![link](Wireframes\wireframe-sm.png)
+* Home Page: [link](Wireframes/wireframeHomePage.jpg)
+* Mobile: [link](Wireframes/wireframeMobile.jpg)
 
 ## Features
 * The website will be responsive on mobile, tablet and monitor devices. Some obvious and not so obvious parts of the website alter depending on screen size
@@ -60,25 +62,25 @@ The imagery had to represent secrecy and excitement. The header section containe
 #### First time visitor goals:
 1. As a first time user, I want to be evoked with exitement and interest as playing football is a hobby/passion; especially in a competitve format.
     * The hero image of people playing football ina floodlight, islotaed pitch triggers the secret and excitement theme of the tournament.
-    ![image](Screenshots\secretLooking-heroImage-sm-ss.jpg)
+    [image](Screenshots\secretLooking-heroImage-sm-ss.jpg)
 2. I want to be able to find out the main details of the website which are where and when the tournament will be held, and how the tournament will be held. 
     * After the intriguemnt caused by the hero-image, scrolling down or clicking on the link next to the 'Home' link, the 'How it works' link, leads me straight to the main details of how the tournament is runned and how to take part.
 3. I will also want to be able to get a glimse of the tournament such as pictures of their last tournament.
     * A gallery section shows me an array of pictures from the previous tournament. This gives the user an image of what to expect.
 4. Registering for the tournament should be easy as I and most people of this town have clear short attention spans.
     * The registration asks very little and basic information. It looks simple and attractive throught the simplicity of the design. It is simple enough for the average user attention span.
-    ![image](Screenshots\simple-registration-tablet-ss.jpg)
+    [image](Screenshots\simple-registration-tablet-ss.jpg)
 
 #### Returning visitor goals:
 1. I want to be able to go through any part of the website for reasons such as reconsidering, rereading anything I might not have remembered misunderstood, show my friends the website and most importantly, being able to register my team after I get my friends to join me. 
     * A navigation bar that constantly stays at the top of the page lets the user move from one section of the page to another with ease. It does not clutter the page especially on the mobile app as the links are within the toggle button in a tidy manner.
-    ![image](Screenshots\static-navbar-ss.jpg)
+    [image](Screenshots\static-navbar-ss.jpg)
 2. Contact details will be helpful if I have any questions.
     * Contact information of various formats are given at the footer section. It also contains links to the social media pages for further options of gainig information of the tournament.
 3. Frequent user goals:
     * I want to be able to reread the details of the tournament as the date comes closer.   
     * A gallery will be helpful in getting myself and my team mates to get excited.
-    ![image](Screenshots\evoking-gallery-sm-ss.jpg)
+    [image](Screenshots\evoking-gallery-sm-ss.jpg)
 
 #### Frequent user goals:
 1. I want to be able to reread the details of the tournament as the date comes closer.
